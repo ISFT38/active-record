@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7cQcBE3H+UsKKwkXS1Yp4bGEiAOlX0fa6aOpPFUSi7f5L6wEzePNBHo323YeYrliNMq6Dst7qj6HE85CRuy/Q==",
+  "success": true,
+  "projectFilePath": "/home/victor/workspace/active-record/active-record.csproj",
+  "expectedPackageFiles": [
+    "/home/victor/.nuget/packages/npgsql/5.0.10/npgsql.5.0.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
